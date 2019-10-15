@@ -75,7 +75,7 @@
 - 24 октября - Санкт-Петербург, [регистрация](https://www.meetup.com/ru-RU/symfoniacs-spb/events/264744562/)
 - 26 октября - Ростов-на-Дону, [регистрация](https://php-rnd.timepad.ru/event/1075848/)
 - 2 ноября - Нижний Новгород, [регистрация](https://www.it52.info/events/2019-11-02-pervyy-mitap-soobschestva-php-nn)
-- 30 ноября - Уфа, [регистрация](http://ufaphpmeetup.tilda.ws/)
+- 29 ноября - Уфа, [регистрация](http://ufaphpmeetup.tilda.ws/)
 - 14 декабря - Казань, [регистрация](https://leader-id.ru/event/29485/)
 
 

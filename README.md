@@ -71,7 +71,7 @@
 ## Календарь PHP-митапов по России
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md)
 
-- 19 октября - Ульяновск, [регистрация](https://panda-meetup.ru/ulsk-php-meetup)[трансояция и запись] (https://www.youtube.com/watch?v=yGGfOFkdSs0&feature=youtu.be)
+- 19 октября - Ульяновск, [регистрация](https://panda-meetup.ru/ulsk-php-meetup)[трансляция и запись](https://www.youtube.com/watch?v=yGGfOFkdSs0&feature=youtu.be)
 - 24 октября - Санкт-Петербург, [регистрация](https://www.meetup.com/ru-RU/symfoniacs-spb/events/264744562/)
 - 26 октября - Ростов-на-Дону, [регистрация](https://php-rnd.timepad.ru/event/1075848/)
 - 2 ноября - Нижний Новгород, [регистрация](https://www.it52.info/events/2019-11-02-pervyy-mitap-soobschestva-php-nn)

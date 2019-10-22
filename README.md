@@ -199,8 +199,9 @@
 
 #### Независимые организаторы и сообщества
 - @hanovruslan - организатор SPB-митапов Symfoniacs
-	- https://www.meetup.com/ru-RU/symfoniacs-spb/ - митапы разработчиков на PHP/Symfony
-	- https://t.me/symfoniacs_spb - группа для общения
+	-  Основная орг. площадка сообщества https://www.meetup.com/ru-RU/symfoniacs-spb
+	- Группа для общения https://t.me/symfoniacs_spb
+	- Канал https://t.me/symfoniacs_spb_live
 
 - @beerphp_spb -  неформальные посиделки в баре
 

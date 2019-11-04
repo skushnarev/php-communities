@@ -80,7 +80,7 @@
 ## Календарь PHP-митапов по России
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- 2 ноября - Нижний Новгород, [регистрация](https://www.it52.info/events/2019-11-02-pervyy-mitap-soobschestva-php-nn)
+- 7 ноября - Москва, [BeerPHP](https://www.meetup.com/ru-RU/BeerPHP-Moscow/events/266070833/)
 - 14 ноября - Екатеринбург, [регистрация](https://scienceman.timepad.ru/event/1090542/)
 - 21 ноября - Москва, [регистрация](http://it.skyeng.ru/php21)
 - 29 ноября - Уфа, [регистрация](http://ufaphpmeetup.tilda.ws/)

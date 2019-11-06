@@ -234,6 +234,10 @@
 	- Канал [@symfoniacs_spb_live](https://t.me/symfoniacs_spb_live)
 
 - [@beerphp_spb](https://t.me/beerphp_spb) -  неформальные посиделки в баре
+- [@in💯gramm.bar](https://github.com/in100gramm/events) - бар, открытый [разработчиком](https://github.com/Realetive) для разработчиков
+	- Календарь мероприятий на GitHub'е: https://github.com/in100gramm/events
+	- Канал в Telegram'е: https://t.me/in100gramm_bar `==` tg://resolve?domain=in100gramm_bar
+	- Twitter: https://twitter.com/In100gramm_bar
 
 ### Саратов
 #### Готовы поддерживать митапы от компаний

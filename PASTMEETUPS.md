@@ -13,3 +13,5 @@
 
 ## Ноябрь 2019
 - 2 ноября - Нижний Новгород, [сайт](https://www.it52.info/events/2019-11-02-pervyy-mitap-soobschestva-php-nn), [запись](https://www.youtube.com/watch?v=ha9dV-ZsnLQ)
+- 7 ноября - Москва, [BeerPHP](https://github.com/beerphp/moscow)
+- 8 ноября - Санкт-Петербург, [BeerPHP](https://github.com/beerphp/spb)

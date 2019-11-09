@@ -84,7 +84,6 @@
 ## Календарь PHP-митапов по России
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- 7 ноября - Москва, [BeerPHP](https://www.meetup.com/ru-RU/BeerPHP-Moscow/events/266070833/)
 - 14 ноября - Екатеринбург, [регистрация](https://scienceman.timepad.ru/event/1090542/)
 - 21 ноября - Москва, [регистрация](http://it.skyeng.ru/php21)
 - 29 ноября - Уфа, [регистрация](http://ufaphpmeetup.tilda.ws/)
@@ -131,17 +130,17 @@
 Тут пока никого нет, но ты можешь [добавить себя/свою компанию](CONTRIBUTING.md)!
 
 ### Иваново
-#### Готовы поддерживать митапы от компаний
+#### Готовы поддерживать и проводить митапы от компаний
 - [@afinogenovpro](https://t.me/afinogenovpro) - Involta, организует митапы и конференции [events.involta.ru](https://events.involta.ru)
 
 #### Готовы выступать
 Тут пока никого нет, но ты можешь [добавить себя/свою компанию](CONTRIBUTING.md)!
 
 #### Независимые организаторы и сообщества
-- [@afinogenovpro](https://t.me/afinogenovpro) - Руководитель Event-отдела в компании Involta [events.involta.ru](https://events.involta.ru)
+
 
 ### Йошкар-Ола
-#### Готовы поддерживать митапы от компаний
+#### Готовы поддерживать и проводить митапы от компаний
 - [@ilya_shikhaleev](https://t.me/ilya_shikhaleev) - iSpring, есть площадка и спикеры
 
 #### Готовы выступать

@@ -84,7 +84,6 @@
 ## Календарь PHP-митапов по России
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- 14 ноября - Екатеринбург, [регистрация](https://scienceman.timepad.ru/event/1090542/)
 - 21 ноября - Москва, [регистрация](http://it.skyeng.ru/php21)
 - 29 ноября - Уфа, [регистрация](http://ufaphpmeetup.tilda.ws/)
 - 30 ноября - Иваново, [регистрация](https://events.involta.ru/events/show/14#form)

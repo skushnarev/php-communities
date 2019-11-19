@@ -84,7 +84,7 @@
 ## Календарь PHP-митапов по России
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- 21 ноября - Москва, [регистрация](http://it.skyeng.ru/php21)
+- 21 ноября - Москва, [сайт](http://it.skyeng.ru/php21), [трансляция](https://www.youtube.com/watch?v=wfkLPF0pJmQ) 
 - 29 ноября - Уфа, [регистрация](http://ufaphpmeetup.tilda.ws/)
 - 30 ноября - Иваново, [регистрация](https://events.involta.ru/events/show/14#form)
 - 7 декабря - Йошкар-Ола, [регистрация](https://php-yola.timepad.ru/event/1110295/)

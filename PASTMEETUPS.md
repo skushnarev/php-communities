@@ -16,3 +16,4 @@
 - 7 ноября - Москва, [BeerPHP](https://github.com/beerphp/moscow)
 - 8 ноября - Санкт-Петербург, [BeerPHP](https://github.com/beerphp/spb)
 - 14 ноября - Екатеринбург, [сайт](https://scienceman.timepad.ru/event/1090542/), запись не велась
+- 21 ноября - Москва, [сайт](http://it.skyeng.ru/php21), [запись](https://www.youtube.com/watch?v=wfkLPF0pJmQ)

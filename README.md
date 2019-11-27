@@ -186,6 +186,7 @@
 #### Готовы выступать
 - [@amorev](https://t.me/amorev) - серия докладов: про опыт PWA, организацию хранения картинок, переход на GO
 - [@SerafimArts](https://t.me/SerafimArts) - Laravel, GraphQL, парсинг и компиляция, статический анализ, алгоритмы и прочие весёлые штуки.
+- [@vudaltsov](https://t.me/vudaltsov) - Symfony, как и зачем контрибьютить в Symfony, DDD, CQRS.
 
 #### Независимые организаторы и сообщества
 - [@beerphp_moscow](https://t.me/beerphp_moscow) - неформальные посиделки в баре после митапов и просто так

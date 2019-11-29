@@ -89,6 +89,8 @@
 - 30 ноября - Иваново, [регистрация](https://events.involta.ru/events/show/14#form)
 - 7 декабря - Йошкар-Ола, [регистрация](https://php-yola.timepad.ru/event/1110295/)
 - 14 декабря - Казань, [регистрация](https://leader-id.ru/event/29485/)
+- TBA - Саратов, [BeerPHP](https://t.me/beerphp_saratov)
+- 21 декабря - Нижний Новгород [регистрация](https://www.it52.info/events/2019-12-21-vtoroy-mitap-soobschestva-php-nn)
 
 [Прошедшие митапы](PASTMEETUPS.md)
 

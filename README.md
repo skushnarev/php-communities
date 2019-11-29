@@ -89,8 +89,9 @@
 - 30 ноября - Иваново, [регистрация](https://events.involta.ru/events/show/14#form)
 - 7 декабря - Йошкар-Ола, [регистрация](https://php-yola.timepad.ru/event/1110295/)
 - 14 декабря - Казань, [регистрация](https://leader-id.ru/event/29485/)
+- 14 декабря - Казань, [BeerPHP](https://t.me/beerphp_kazan)
 - TBA - Саратов, [BeerPHP](https://t.me/beerphp_saratov)
-- 21 декабря - Нижний Новгород [регистрация](https://www.it52.info/events/2019-12-21-vtoroy-mitap-soobschestva-php-nn)
+- 21 декабря - Нижний Новгород, [регистрация](https://www.it52.info/events/2019-12-21-vtoroy-mitap-soobschestva-php-nn)
 
 [Прошедшие митапы](PASTMEETUPS.md)
 
@@ -161,7 +162,9 @@
 - [@komandakycto](https://t.me/komandakycto) - Жизнь с codestyle и без. Рефакторинг это не больно.
 
 #### Независимые организаторы и сообщества
-- [@komandakycto](https://t.me/komandakycto) - Есть план организовать первый "Kazan beer php".
+
+- [@komandakycto](https://t.me/komandakycto) - организатор местных BeerPHP
+	- [BeerPHP Kazan](https://t.me/beerphp_kazan) - неформальные встречи PHP-разработчиков Татарстана
 
 - [@aitenmedzhidova](https://t.me/aitenmedzhidova) - соорганизатор ивентов по Lua и GameDev в Москве и Казани. Готова помочь PHP-комьюнити по организационным вопросам: общение с подрядчиками, поиск площадок, создание страницы события на Таймпаде или Тильде, анонсирование, организация работы волонтеров и тд.
 
@@ -264,7 +267,7 @@
 - [@namig_nurmamedov](https://t.me/namig_nurmamedov) - с докладом о том, как устроена аутентификация в Skyeng
 
 #### Независимые организаторы и сообщества
-Тут пока никого нет, но ты можешь [добавить себя/свою компанию](CONTRIBUTING.md)!
+- [BeerPHP Saratov](https://t.me/beerphp_saratov) - неформальные встречи PHP-разработчиков Саратова
 
 ### Ульяновск
 #### Готовы поддерживать митапы от компаний

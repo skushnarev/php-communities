@@ -18,3 +18,7 @@
 - 14 ноября - Екатеринбург, [сайт](https://scienceman.timepad.ru/event/1090542/), запись не велась
 - 21 ноября - Москва, [сайт](http://it.skyeng.ru/php21), [запись](https://www.youtube.com/watch?v=wfkLPF0pJmQ)
 - 29 ноября - Уфа, [сайт](http://ufaphpmeetup.tilda.ws/), [запись](https://www.youtube.com/watch?v=az0j5sfEwM8&feature=youtu.be)
+- 29 ноября - Санкт-Петербург, [BeerPHP](https://t.me/beerphp_spb)
+- 30 ноября - Иваново, [сайт](https://events.involta.ru/events/show/14#form)
+
+

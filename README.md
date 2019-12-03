@@ -84,8 +84,6 @@
 ## Календарь PHP-митапов по России
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
  
-- 29 ноября - Санкт-Петербург, [BeerPHP](https://t.me/beerphp_spb)
-- 30 ноября - Иваново, [регистрация](https://events.involta.ru/events/show/14#form)
 - 5 декабря, - Москва, [регистрация](https://manychat.timepad.ru/event/1127994/)
 - 7 декабря - Йошкар-Ола, [регистрация](https://php-yola.timepad.ru/event/1110295/)
 - 14 декабря - Казань, [регистрация](https://leader-id.ru/event/29485/)

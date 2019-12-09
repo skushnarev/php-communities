@@ -21,4 +21,9 @@
 - 29 ноября - Санкт-Петербург, [BeerPHP](https://t.me/beerphp_spb)
 - 30 ноября - Иваново, [сайт](https://events.involta.ru/events/show/14#form)
 
+## Декабрь 2019
+
+- 5 декабря, - Москва, [сайт](https://manychat.timepad.ru/event/1127994/), велась видеозапись
+- 7 декабря - Йошкар-Ола, [сайт](https://php-yola.timepad.ru/event/1110295/), велась видеозапись
+
 

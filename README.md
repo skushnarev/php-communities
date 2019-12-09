@@ -84,9 +84,11 @@
 ## Календарь PHP-митапов по России
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
  
-- 12 декабря - Москва, [подробности](https://habr.com/ru/company/badoo/blog/477392/)
+- 12 декабря - Москва, [мини-доклады на Badoo](https://habr.com/ru/company/badoo/blog/479420/)
+- 12 декбаря - Ростов-на-Дону, [неформальная встреча Teleram-чата](https://t.me/rndphp/1661)
 - 14 декабря - Казань, [регистрация](https://leader-id.ru/event/29485/)
 - 14 декабря - Казань, [BeerPHP](https://t.me/beerphp_kazan)
+- 20 декабря - Саратов, [BeerPHP](https://t.me/beerphp_saratov)
 - 21 декабря - Нижний Новгород, [регистрация](https://www.it52.info/events/2019-12-21-vtoroy-mitap-soobschestva-php-nn)
 
 [Прошедшие митапы](PASTMEETUPS.md)

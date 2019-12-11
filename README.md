@@ -88,6 +88,7 @@
 - 12 декбаря - Ростов-на-Дону, [неформальная встреча PHP-чата в кафе](https://t.me/rndphp/1661)
 - 14 декабря - Казань, [PHP-митап](https://leader-id.ru/event/29485/)
 - 14 декабря - Казань, [BeerPHP](https://t.me/beerphp_kazan)
+- 18 декабря - Санкт-Петербург, [SymCode](https://symcode.timepad.ru/event/1135805/)
 - 20 декабря - Саратов, [BeerPHP](https://t.me/beerphp_saratov)
 - 21 декабря - Нижний Новгород, [PHP-митап](https://www.it52.info/events/2019-12-21-vtoroy-mitap-soobschestva-php-nn)
 
@@ -105,7 +106,7 @@
 
 - [@tg_5minphp](https://t.me/tg_5minphp) - [@petrmyazin](https://t.me/petrmyazin) может рассказать про ивент при случае 
 
-- [@symfoniacs](https://t.me/symfoniacs) - [@hanovruslan](https://t.me/hanovruslan) не против анонсов в чате, но предупреждай заранее
+- [@symcode](https://t.me/symfoniacs_spb) - [@hanovruslan](https://t.me/hanovruslan) не против анонсов в чате, но предупреждай заранее
 
 - [@iteventsru](https://t.me/iteventsru) - [@alienna_dmit](https://t.me/alienna_dmit) готова поддерживать митапы информационно в обмен на линк на канал на странице события
 
@@ -246,8 +247,8 @@
 
 #### Независимые организаторы и сообщества
 - [@AgafonovG](https://t.me/AgafonovG) - помогу найти спикеров, помогу в организации мероприятий
-- [@hanovruslan](https://t.me/hanovruslan) - организатор SPB-митапов Symfoniacs
-	- Основная орг. площадка сообщества https://www.meetup.com/ru-RU/symfoniacs-spb
+- [@hanovruslan](https://t.me/hanovruslan) - организатор SPB-митапов SymCode
+	- Основная орг. площадка сообщества [SymCode на meetup.com](https://www.meetup.com/symcode)
 	- Группа для общения [@symfoniacs_spb](https://t.me/symfoniacs_spb)
 	- Канал [@symfoniacs_spb_live](https://t.me/symfoniacs_spb_live)
 

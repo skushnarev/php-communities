@@ -186,6 +186,7 @@
 - [@justblackbird](https://t.me/justblackbird) и [@KsHoxton](https://t.me/KsHoxton) - Райффайзенбанк (площадка, докладчики)
 - [@gernovich](https://t.me/gernovich) - Работа.ру (докладчики)
 - [@pavelpigalev](https://t.me/pavelpigalev) - SuperJob (свои митапы, докладчики, площадка)
+- [@meowsphere](https://t.me/meowsphere) - ManyChat (свои митапы, докладчики, площадка на 80-100 человек)
 
 #### Готовы выступать
 - [@amorev](https://t.me/amorev) - серия докладов: про опыт PWA, организацию хранения картинок, переход на GO

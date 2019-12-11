@@ -86,7 +86,7 @@
  
 - 12 декабря - Москва, [мини-доклады на кухне про любой бэкенд](https://habr.com/ru/company/badoo/blog/479420/)
 - 12 декбаря - Ростов-на-Дону, [неформальная встреча PHP-чата в кафе](https://t.me/rndphp/1661)
-- 14 декабря - Казань, [PHP-митап](https://leader-id.ru/event/29485/)
+- 14 декабря - Казань, [PHP-митап](https://leader-id.ru/event/29485/), [трансляция](https://www.youtube.com/watch?v=zZTv7HMxKXI)
 - 14 декабря - Казань, [BeerPHP](https://t.me/beerphp_kazan)
 - 18 декабря - Санкт-Петербург, [SymCode](https://symcode.timepad.ru/event/1135805/)
 - 20 декабря - Саратов, [BeerPHP](https://t.me/beerphp_saratov)

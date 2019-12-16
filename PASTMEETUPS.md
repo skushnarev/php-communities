@@ -24,6 +24,10 @@
 ## Декабрь 2019
 
 - 5 декабря, - Москва, [сайт](https://manychat.timepad.ru/event/1127994/), велась видеозапись
-- 7 декабря - Йошкар-Ола, [сайт](https://php-yola.timepad.ru/event/1110295/), велась видеозапись
+- 7 декабря - Йошкар-Ола, [сайт](https://php-yola.timepad.ru/event/1110295/), [видеозапись](https://www.youtube.com/watch?v=xT25xiKqPcI&list=PL29DYZAQWb0KWCcFCkBniZ9iODbeSR9lh)
+- 12 декабря - Москва, [мини-доклады на кухне про любой бэкенд](https://habr.com/ru/company/badoo/blog/479420/)
+- 12 декабря - Ростов-на-Дону, [неформальная встреча PHP-чата в кафе](https://t.me/rndphp/1661)
+- 14 декабря - Казань, [PHP-митап](https://leader-id.ru/event/29485/), [запись](https://www.youtube.com/watch?v=zZTv7HMxKXI)
+- 14 декабря - Казань, [BeerPHP](https://t.me/beerphp_kazan)
 
 

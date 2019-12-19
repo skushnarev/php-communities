@@ -84,10 +84,11 @@
 ## Календарь PHP-митапов по России
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
  
-- 18 декабря - Санкт-Петербург, [SymCode](https://symcode.timepad.ru/event/1135805/)
-- 20 декабря - Саратов, [BeerPHP](https://t.me/beerphp_saratov)
-- 20 декабря - Санкт-Петербург, [BeerPHP](https://github.com/in100gramm/events/blob/master/events/2019/12/2019.12.20.md)
-- 21 декабря - Нижний Новгород, [PHP-митап](https://www.it52.info/events/2019-12-21-vtoroy-mitap-soobschestva-php-nn)
+- 20 декабря 2019 - Саратов, [BeerPHP](https://t.me/beerphp_saratov)
+- 20 декабря 2019 - Санкт-Петербург, [BeerPHP](https://github.com/in100gramm/events/blob/master/events/2019/12/2019.12.20.md)
+- 21 декабря 2019 - Нижний Новгород, [PHP-митап](https://www.it52.info/events/2019-12-21-vtoroy-mitap-soobschestva-php-nn)
+- 1 февраля 2020 - Йошкар-Ола, второй PHP-митап, TBA
+- 15 февраля 2020 - Москва, Badoo PHP митап, TBA
 
 [Прошедшие митапы](PASTMEETUPS.md)
 

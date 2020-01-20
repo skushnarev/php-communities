@@ -250,8 +250,9 @@
 	- Основная орг. площадка сообщества [SymCode на meetup.com](https://www.meetup.com/symcode)
 	- Группа для общения [@symfoniacs_spb](https://t.me/symfoniacs_spb)
 	- Канал [@symfoniacs_spb_live](https://t.me/symfoniacs_spb_live)
-
-- [@beerphp_spb](https://t.me/beerphp_spb) -  неформальные посиделки в баре
+- [@doxadoxa](https://t.me/doxadoxa) и [@arutyunov](https://t.me/arutyunov] - организаторы движения BeerPHP в Санкт-Петербурге
+        - Группа для общения: [@beerphp_spb](https://t.me/beerphp_spb)
+	- Канал: [@beerphp_spb_news](https://t.me/beerphp_spb_news)
 - [@in💯gramm.bar](https://github.com/in100gramm/events) - бар, открытый [разработчиком](https://github.com/Realetive) для разработчиков
 	- Календарь мероприятий на GitHub'е: https://github.com/in100gramm/events
 	- Канал в Telegram'е: https://t.me/in100gramm_bar `==` tg://resolve?domain=in100gramm_bar

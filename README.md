@@ -84,12 +84,9 @@
 ## Календарь PHP-митапов по России 
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- 24 января - Новосибирск, [BeerPHP](https://t.me/beerphp_nsk/306)
-- 25 января - Санкт-Петербург, [Symcode.Talks #1](https://symcode.timepad.ru/event/1235679/) 
 - 31 января - Санкт-Петербург, [1й BeerPHP-митап](https://t.me/beerphp_spb_news/4)
 - 1 февраля - Йошкар-Ола, [второй PHP-митап](https://php-yola.timepad.ru/event/1234664/)
-- 15 февраля 2020 - Москва, Badoo PHP митап, TBA
-
+- 29 февраля - Ростов-на-Дону, [3-й PHP-митап](https://t.me/rndphp/2575)
 [Прошедшие митапы](PASTMEETUPS.md)
 
 

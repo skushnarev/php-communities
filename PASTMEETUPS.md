@@ -3,6 +3,8 @@
 ## Январь 2020
 
 - 17 января - Санкт-Петербург, [BeerPHP](https://t.me/beerphp_spb_news/5)
+- 24 января - Новосибирск, [BeerPHP](https://t.me/beerphp_nsk/306)
+- 25 января - Санкт-Петербург, [Symcode.Talks #1](https://symcode.timepad.ru/event/1235679/) 
 
 ## Декабрь 2019
 

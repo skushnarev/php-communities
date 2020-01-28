@@ -103,7 +103,7 @@
 
 - [@tg_5minphp](https://t.me/tg_5minphp) - [@petrmyazin](https://t.me/petrmyazin) может рассказать про ивент при случае 
 
-- [@symcode](https://t.me/symfoniacs_spb) - [@hanovruslan](https://t.me/hanovruslan) не против анонсов в чате, но предупреждай заранее
+- [@symcode](https://t.me/symcode) - [@hanovruslan](https://t.me/hanovruslan) не против анонсов в чате, но предупреждай заранее
 
 - [@iteventsru](https://t.me/iteventsru) - [@alienna_dmit](https://t.me/alienna_dmit) готова поддерживать митапы информационно в обмен на линк на канал на странице события
 
@@ -246,11 +246,11 @@
 #### Независимые организаторы и сообщества
 - [@AgafonovG](https://t.me/AgafonovG) - помогу найти спикеров, помогу в организации мероприятий
 - [@hanovruslan](https://t.me/hanovruslan) - организатор SPB-митапов SymCode
-	- [SymCode на meetup.com](https://www.meetup.com/symcode)
-	- Чат [@symfoniacs_spb](https://t.me/symfoniacs_spb)
-	- Канал [@symfoniacs_spb_live](https://t.me/symfoniacs_spb_live)
+	- Основная орг. площадка сообщества [SymCode на meetup.com](https://www.meetup.com/symcode)
+	- Группа для общения [@symcode](https://t.me/symcode)
+	- Канал [@symcode_live](https://t.me/symcode_live)
 - [@doxadoxa](https://t.me/doxadoxa) и [@arutyunov](https://t.me/arutyunov) - организаторы движения BeerPHP в Санкт-Петербурге
-        - Чат [@beerphp_spb](https://t.me/beerphp_spb)
+    - Чат [@beerphp_spb](https://t.me/beerphp_spb)
 	- Канал [@beerphp_spb_news](https://t.me/beerphp_spb_news)
 - [@in💯gramm.bar](https://github.com/in100gramm/events) - бар, открытый [разработчиком](https://github.com/Realetive) для разработчиков
 	- Календарь мероприятий на GitHub'е: https://github.com/in100gramm/events

@@ -84,9 +84,11 @@
 ## Календарь PHP-митапов по России 
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- 31 января - Санкт-Петербург, [1й BeerPHP-митап](https://t.me/beerphp_spb_news/4)
-- 1 февраля - Йошкар-Ола, [второй PHP-митап](https://php-yola.timepad.ru/event/1234664/)
-- 29 февраля - Ростов-на-Дону, [3-й PHP-митап](https://t.me/rndphp/2575)
+- 31 января - Санкт-Петербург, [1-й BeerPHP-митап](https://t.me/beerphp_spb_news/4)
+- 1 февраля - Йошкар-Ола, [2-й PHP-митап городского чата](https://php-yola.timepad.ru/event/1234664/)
+- 15 февраля - Москва, [Badoo PHP-митап](https://badoo-tech.timepad.ru/event/1244780/) 
+- 29 февраля - Ростов-на-Дону, [3-й PHP-митап городского чата](https://t.me/rndphp/2575)
+
 [Прошедшие митапы](PASTMEETUPS.md)
 
 

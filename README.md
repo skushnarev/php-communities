@@ -84,7 +84,7 @@
 ## Календарь PHP-митапов по России 
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- 31 января - Санкт-Петербург, [1-й BeerPHP-митап](https://t.me/beerphp_spb_news/4)
+- 31 января - Санкт-Петербург, [1-й BeerPHP-митап](https://t.me/beerphp_spb_news/4), [трансяция](https://www.youtube.com/watch?v=qGItNYIAofQ)
 - 1 февраля - Йошкар-Ола, [2-й PHP-митап городского чата](https://php-yola.timepad.ru/event/1234664/), [трансляция](https://youtu.be/W-mvv7NBObw)
 - 15 февраля - Москва, [Badoo PHP-митап](https://badoo-tech.timepad.ru/event/1244780/) 
 - 29 февраля - Ростов-на-Дону, [3-й PHP-митап городского чата](https://t.me/rndphp/2575)
@@ -253,7 +253,7 @@
     	- Чат [@beerphp_spb](https://t.me/beerphp_spb)
 	- Канал [@beerphp_spb_news](https://t.me/beerphp_spb_news)
 	- Профиль [meetup.com](https://www.meetup.com/beerphp_spb/)
-	- Live и запиcь BeerPHP митапа #1 [youtube.com](https://www.youtube.com/watch?v=qGItNYIAofQ)
+	- [Youtube-канал](https://www.youtube.com/channel/UC7HeLRn5kBpu1o-MiAcvCyw)
 - [@in💯gramm.bar](https://github.com/in100gramm/events) - бар, открытый [разработчиком](https://github.com/Realetive) для разработчиков
 	- Календарь мероприятий на GitHub'е: https://github.com/in100gramm/events
 	- Канал в Telegram'е: https://t.me/in100gramm_bar `==` tg://resolve?domain=in100gramm_bar

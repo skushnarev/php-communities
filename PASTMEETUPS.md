@@ -1,10 +1,16 @@
 # Прошедшие митапы
 
+## Февраль 2020
+
+- 1 февраля - Йошкар-Ола, [2-й PHP-митап городского чата](https://php-yola.timepad.ru/event/1234664/), велась запись
+
 ## Январь 2020
 
-- 17 января - Санкт-Петербург, [BeerPHP](https://t.me/beerphp_spb_news/5)
-- 24 января - Новосибирск, [BeerPHP](https://t.me/beerphp_nsk/306)
-- 25 января - Санкт-Петербург, [Symcode.Talks #1](https://symcode.timepad.ru/event/1235679/) 
+- 17 января - Санкт-Петербург, [дринкап BeerPHP](https://t.me/beerphp_spb_news/5)
+- 24 января - Новосибирск, [дринкап BeerPHP](https://t.me/beerphp_nsk/306)
+- 25 января - Санкт-Петербург, [дринкап Symcode.Talks #1](https://symcode.timepad.ru/event/1235679/) =
+- 31 января - Санкт-Петербург, [1-й BeerPHP-митап](https://t.me/beerphp_spb_news/4), [трансляция](https://www.youtube.com/watch?v=qGItNYIAofQ)
+
 
 ## Декабрь 2019
 

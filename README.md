@@ -89,8 +89,11 @@
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - 8 февраля - Красноярск, [PHP-митап](https://dev2dev.timepad.ru/event/1249841/)
-- 15 февраля - Москва, [Badoo PHP-митап](https://badoo-tech.timepad.ru/event/1244780/) 
+- 15 февраля - Москва, [Badoo PHP-митап](https://badoo-tech.timepad.ru/event/1244780/)
+- 17 февраля - Воронеж, [Первая встреча PHP-чата (с докладами)](https://t.me/php_vrn/361)
 - 29 февраля - Ростов-на-Дону, [3-й PHP-митап городского чата](https://t.me/rndphp/2575)
+- 19 или 25 марта - Екатеринбург, 3-й PHP-митап, TBA
+- 28 марта - Казань, 2-й PHP-митап, TBA
 
 [Прошедшие митапы](PASTMEETUPS.md)
 

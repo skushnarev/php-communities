@@ -22,6 +22,7 @@
 - 14 декабря - Казань, [1-й казанский PHP-митап](https://leader-id.ru/event/29485/), [видео](https://www.youtube.com/watch?v=zZTv7HMxKXI)
 - 14 декабря - Казань, [BeerPHP](https://t.me/beerphp_kazan)
 - 18 декабря - Санкт-Петербург, [SymCode #8](https://symcode.timepad.ru/event/1135805/), велась запись
+- 19 декабря - Тула, [Лекция по PHP в рамках общегородских митапов](https://vk.com/it_community_tula?w=wall-184277309_50), запись не велась
 - 20 декабря 2019 - Саратов, [BeerPHP](https://t.me/beerphp_saratov)
 - 20 декабря 2019 - Санкт-Петербург, [BeerPHP](https://github.com/in100gramm/events/blob/master/events/2019/12/2019.12.20.md)
 - 21 декабря 2019 - Нижний Новгород, [2й митап PHP-чата](https://www.it52.info/events/2019-12-21-vtoroy-mitap-soobschestva-php-nn), [видео](https://youtu.be/tJvLJ_G2PEc)

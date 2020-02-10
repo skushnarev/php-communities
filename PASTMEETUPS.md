@@ -1,8 +1,8 @@
 # Прошедшие митапы
 
 ## Февраль 2020
-
-- 1 февраля - Йошкар-Ола, [2-й PHP-митап городского чата](https://php-yola.timepad.ru/event/1234664/), велась запись
+- 8 февраля - Красноярск, [PHP-митап](https://dev2dev.timepad.ru/event/1249841/)
+- 1 февраля - Йошкар-Ола, [2-й PHP-митап городского чата](https://php-yola.timepad.ru/event/1234664/), [видео](https://www.youtube.com/playlist?list=PL29DYZAQWb0JKrUgONzLLhzy3EEh6s-zy)
 
 ## Январь 2020
 

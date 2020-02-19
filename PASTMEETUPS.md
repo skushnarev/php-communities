@@ -10,7 +10,8 @@
 
 - 17 января - Санкт-Петербург, [дринкап BeerPHP](https://t.me/beerphp_spb_news/5)
 - 24 января - Новосибирск, [дринкап BeerPHP](https://t.me/beerphp_nsk/306)
-- 25 января - Санкт-Петербург, [дринкап Symcode.Talks #1](https://symcode.timepad.ru/event/1235679/) =
+- 25 января - Санкт-Петербург, [дринкап Symcode.Talks #1](https://symcode.timepad.ru/event/1235679/)
+- 28 января - Ярославль, [BeerPHP](https://t.me/beerphp_yaroslavl)
 - 31 января - Санкт-Петербург, [1-й BeerPHP-митап](https://t.me/beerphp_spb_news/4), [трансляция](https://www.youtube.com/watch?v=qGItNYIAofQ)
 
 

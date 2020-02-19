@@ -4,12 +4,14 @@
 - 1 февраля - Йошкар-Ола, [2-й PHP-митап городского чата](https://php-yola.timepad.ru/event/1234664/), [видео](https://www.youtube.com/playlist?list=PL29DYZAQWb0JKrUgONzLLhzy3EEh6s-zy)
 - 8 февраля - Красноярск, [PHP-митап](https://dev2dev.timepad.ru/event/1249841/)
 - 15 февраля - Москва, [Badoo PHP-митап](https://badoo-tech.timepad.ru/event/1244780/), [видео](https://www.youtube.com/watch?v=xe1PmW4XVZE)
+- 17 февраля - Воронеж, [Первая встреча PHP-чата (с докладами)](https://t.me/php_vrn/361)
 
 ## Январь 2020
 
 - 17 января - Санкт-Петербург, [дринкап BeerPHP](https://t.me/beerphp_spb_news/5)
 - 24 января - Новосибирск, [дринкап BeerPHP](https://t.me/beerphp_nsk/306)
-- 25 января - Санкт-Петербург, [дринкап Symcode.Talks #1](https://symcode.timepad.ru/event/1235679/) =
+- 25 января - Санкт-Петербург, [дринкап Symcode.Talks #1](https://symcode.timepad.ru/event/1235679/)
+- 28 января - Ярославль, [BeerPHP](https://t.me/beerphp_yaroslavl)
 - 31 января - Санкт-Петербург, [1-й BeerPHP-митап](https://t.me/beerphp_spb_news/4), [трансляция](https://www.youtube.com/watch?v=qGItNYIAofQ)
 
 

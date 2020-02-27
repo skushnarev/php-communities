@@ -3,7 +3,7 @@
 ## Февраль 2020
 - 1 февраля - Йошкар-Ола, [2-й PHP-митап городского чата](https://php-yola.timepad.ru/event/1234664/), [видео](https://www.youtube.com/playlist?list=PL29DYZAQWb0JKrUgONzLLhzy3EEh6s-zy)
 - 8 февраля - Красноярск, [PHP-митап](https://dev2dev.timepad.ru/event/1249841/)
-- 15 февраля - Москва, [Badoo PHP-митап](https://badoo-tech.timepad.ru/event/1244780/), [видео](https://www.youtube.com/watch?v=xe1PmW4XVZE)
+- 15 февраля - Москва, [Badoo PHP-митап](https://badoo-tech.timepad.ru/event/1244780/), [видео](https://www.youtube.com/playlist?list=PL3xVZC4USRNShv795toFqIBouDQTs36d1)
 - 17 февраля - Воронеж, [Первая встреча PHP-чата (с докладами)](https://t.me/php_vrn/361)
 
 ## Январь 2020

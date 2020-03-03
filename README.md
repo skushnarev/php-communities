@@ -88,8 +88,6 @@
 ## Календарь PHP-митапов по России 
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- 28 февраля - Санкт-Петербург, [BeerPHP](https://t.me/beerphp_spb_news/10)
-- 29 февраля - Ростов-на-Дону, [3-й PHP-митап городского чата](https://php-rnd.timepad.ru/event/1258656/), планируется видео
 - 12 марта - Ярославль, [BeerPHP](https://t.me/beerphp_yaroslavl)
 - 26 марта - Екатеринбург, [3-й PHP-митап](https://scienceman.timepad.ru/event/1263936/)
 - 28 марта - Казань, [2-й PHP-митап](https://php-not-dead.timepad.ru/event/1253335/), [трансляция будет на канале](https://www.youtube.com/channel/UCQ5X_o8s14fbozhtxO5BgIA)

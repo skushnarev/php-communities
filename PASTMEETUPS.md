@@ -6,7 +6,7 @@
 - 15 февраля - Москва, [Badoo PHP-митап](https://badoo-tech.timepad.ru/event/1244780/), [видео](https://www.youtube.com/playlist?list=PL3xVZC4USRNShv795toFqIBouDQTs36d1)
 - 17 февраля - Воронеж, [Первая встреча PHP-чата (с докладами)](https://t.me/php_vrn/361)
 - 28 февраля - Санкт-Петербург, [BeerPHP](https://t.me/beerphp_spb_news/10)
-- 29 февраля - Ростов-на-Дону, [3-й PHP-митап городского чата](https://php-rnd.timepad.ru/event/1258656/)
+- 29 февраля - Ростов-на-Дону, [3-й PHP-митап городского чата](https://php-rnd.timepad.ru/event/1258656/), [видео](https://www.youtube.com/watch?v=2TBrGX1-mJY)
 
 ## Январь 2020
 

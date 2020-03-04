@@ -89,6 +89,7 @@
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - 12 марта - Ярославль, [BeerPHP](https://t.me/beerphp_yaroslavl)
+- 16 марта - Воронеж, [2-й PHP-митап городского чата](https://t.me/php_vrn/1298)
 - 26 марта - Екатеринбург, [3-й PHP-митап](https://scienceman.timepad.ru/event/1263936/)
 - 28 марта - Казань, [2-й PHP-митап](https://php-not-dead.timepad.ru/event/1253335/), [трансляция будет на канале](https://www.youtube.com/channel/UCQ5X_o8s14fbozhtxO5BgIA)
 

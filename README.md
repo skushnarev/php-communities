@@ -88,6 +88,8 @@
 ## Календарь PHP-митапов по России 
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
 
+- 5 марта - Йошкар-Ола, [BeerPHP](https://php-yola.timepad.ru/event/1271692/)
+- 6 марта - Новосибирск, [BeerPHP](https://t.me/beerphp_nsk/392)
 - 12 марта - Ярославль, [BeerPHP](https://t.me/beerphp_yaroslavl)
 - 16 марта - Воронеж, [2-й PHP-митап городского чата](https://t.me/php_vrn/1298)
 - 26 марта - Екатеринбург, [3-й PHP-митап](https://scienceman.timepad.ru/event/1263936/)

@@ -4,6 +4,7 @@
 
 - 5 марта - Йошкар-Ола, [BeerPHP](https://php-yola.timepad.ru/event/1271692/)
 - 6 марта - Новосибирск, [BeerPHP](https://t.me/beerphp_nsk/392)
+- 12 марта - Ярославль, [BeerPHP](https://t.me/beerphp_yaroslavl)
 
 ## Февраль 2020
 - 1 февраля - Йошкар-Ола, [2-й PHP-митап городского чата](https://php-yola.timepad.ru/event/1234664/), [видео](https://www.youtube.com/playlist?list=PL29DYZAQWb0JKrUgONzLLhzy3EEh6s-zy)

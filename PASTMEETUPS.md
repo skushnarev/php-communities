@@ -4,7 +4,10 @@
 
 - 5 марта - Йошкар-Ола, [BeerPHP](https://php-yola.timepad.ru/event/1271692/)
 - 6 марта - Новосибирск, [BeerPHP](https://t.me/beerphp_nsk/392)
-- 12 марта - Ярославль, [BeerPHP](https://t.me/beerphp_yaroslavl)
+- 13 марта - Санкт_Петербург, [2-й митап BeerPHP чата](https://www.meetup.com/ru-RU/beerphp_spb/events/269346462/), видео планируется [тут](https://www.youtube.com/channel/UC7HeLRn5kBpu1o-MiAcvCyw)
+- ОТМЕНЕН - Воронеж, [2-й PHP-митап городского чата](https://t.me/php_vrn/1298)
+- ОТМЕНЕН - Екатеринбург, [3-й PHP-митап](https://scienceman.timepad.ru/event/1263936/)
+
 
 ## Февраль 2020
 - 1 февраля - Йошкар-Ола, [2-й PHP-митап городского чата](https://php-yola.timepad.ru/event/1234664/), [видео](https://www.youtube.com/playlist?list=PL29DYZAQWb0JKrUgONzLLhzy3EEh6s-zy)

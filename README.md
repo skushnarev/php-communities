@@ -92,9 +92,8 @@
 ## Календарь PHP-митапов по России 
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- 21 марта (онлайн) - [Онлайн митап про PHP и удаленку](http://meetups-online.ru/php_i_udalenka), [онлайн будет на канале](https://www.youtube.com/channel/UCQ5X_o8s14fbozhtxO5BgIA) 
 - 27 марта - Ярославль, [BeerPHP](https://t.me/beerphp_yaroslavl)
-- 28 марта (онлайн) - [2-й казанский PHP-митап](https://php-not-dead.timepad.ru/event/1253335/), [онлайн будет на канале](https://www.youtube.com/channel/UCQ5X_o8s14fbozhtxO5BgIA)
+- 28 марта (онлайн) - [Виртуальный PHP-митап (экс 2-й казанский PHP-митап)](https://php-not-dead.timepad.ru/event/1253335/), [трансляция](https://www.youtube.com/watch?v=Bxe8FQyaCBs)
 - 11 апреля - Нижний Новгород, 3-й PHP-митап, TBA
 
 [Прошедшие митапы](PASTMEETUPS.md)

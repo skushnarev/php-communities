@@ -7,6 +7,8 @@
 - 13 марта - Санкт_Петербург, [2-й митап BeerPHP чата](https://www.meetup.com/ru-RU/beerphp_spb/events/269346462/), видео планируется [тут](https://www.youtube.com/channel/UC7HeLRn5kBpu1o-MiAcvCyw)
 - ОТМЕНЕН - Воронеж, [2-й PHP-митап городского чата](https://t.me/php_vrn/1298)
 - ОТМЕНЕН - Екатеринбург, [3-й PHP-митап](https://scienceman.timepad.ru/event/1263936/)
+- 21 марта (онлайн) - [Онлайн митап про PHP и удаленку](http://meetups-online.ru/php_i_udalenka), [запись](https://youtu.be/WwINpXxxWMU?t=6173) 
+
 
 
 ## Февраль 2020

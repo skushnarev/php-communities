@@ -1,5 +1,7 @@
 # Прошедшие митапы
 
+## Апрель 2020
+
 ## Март 2020
 
 - 5 марта - Йошкар-Ола, [BeerPHP](https://php-yola.timepad.ru/event/1271692/)
@@ -8,6 +10,7 @@
 - ОТМЕНЕН - Воронеж, [2-й PHP-митап городского чата](https://t.me/php_vrn/1298)
 - ОТМЕНЕН - Екатеринбург, [3-й PHP-митап](https://scienceman.timepad.ru/event/1263936/)
 - 21 марта (онлайн) - [Онлайн митап про PHP и удаленку](http://meetups-online.ru/php_i_udalenka), [запись](https://youtu.be/WwINpXxxWMU?t=6173) 
+- 28 марта (онлайн) - [Виртуальный PHP-митап (экс 2-й казанский PHP-митап)](https://php-not-dead.timepad.ru/event/1253335/), [запись](https://www.youtube.com/watch?v=Bxe8FQyaCBs)
 
 
 

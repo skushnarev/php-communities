@@ -96,7 +96,7 @@
 ## Календарь PHP-митапов по России 
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
 
-18 апреля (онлайн) - виртуальный митап от минского сообщества PHP of By, TBA
+25 апреля (онлайн) - [виртуальный митап от Skyeng и минского сообщества PHP of By](https://meetups-online.ru/php-minsk-moskva), [трансляция](https://www.youtube.com/watch?v=se3F83O0ZiY)
 
 [Прошедшие митапы](PASTMEETUPS.md)
 

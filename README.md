@@ -96,8 +96,9 @@
 ## Календарь PHP-митапов по России 
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
 
-25 апреля (онлайн) - [виртуальный митап от Skyeng и минского сообщества PHP of By](https://meetups-online.ru/php-minsk-moskva), [трансляция](https://www.youtube.com/watch?v=se3F83O0ZiY)
-
+25 апреля (онлайн) - [Небольшой международный PHP-митап в онлайне](https://meetups-online.ru/php-minsk-moskva), [трансляция](https://www.youtube.com/watch?v=se3F83O0ZiY)
+13 мая (онлайн) - [PHP Russia Online, бесплатное дополнение от организаторов](https://phprussia.ru/moscow/2020)
+30 мая (онлайн) - 3-й виртуальный PHP-митап, ищем спикеров, пиши @yeskelaveenrok
 [Прошедшие митапы](PASTMEETUPS.md)
 
 

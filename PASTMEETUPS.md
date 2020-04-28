@@ -2,6 +2,8 @@
 
 ## Апрель 2020
 
+- 25 апреля (онлайн) - [Небольшой международный PHP-митап в онлайне](https://meetups-online.ru/php-minsk-moskva), [запись](https://www.youtube.com/watch?v=se3F83O0ZiY)
+
 ## Март 2020
 
 - 5 марта - Йошкар-Ола, [BeerPHP](https://php-yola.timepad.ru/event/1271692/)

@@ -1,5 +1,9 @@
 # Прошедшие митапы
 
+## Май 2020
+
+- 13 мая (онлайн) - [PHP Russia Online, 7 докладов иностранных спикеров с синхронным переводом](https://phprussia.ru/moscow/2020)
+
 ## Апрель 2020
 
 - 25 апреля (онлайн) - [Небольшой международный PHP-митап в онлайне](https://meetups-online.ru/php-minsk-moskva), [запись](https://www.youtube.com/watch?v=se3F83O0ZiY)

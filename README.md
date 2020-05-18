@@ -96,7 +96,7 @@
 ## Календарь PHP-митапов по России 
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- 13 мая (онлайн) - [PHP Russia Online, 7 докладов иностранных спикерво с синхронным переводом](https://phprussia.ru/moscow/2020)
+- 19 мая (онлайн) - [PHP fwdays meetup](https://fwdays.com/en/event/php-online-meetup) (2 доклада на английском)
 
 - 30 мая (онлайн) - [3-й виртуальный PHP-митап](https://meetups-online.ru/php-may-2020), [трансляция пройдет на канале](https://meetups-online.ru/php-may-2020)
 

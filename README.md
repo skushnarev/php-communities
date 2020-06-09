@@ -96,9 +96,7 @@
 ## Календарь PHP-митапов по России 
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- 19 мая (онлайн) - [PHP fwdays meetup](https://fwdays.com/en/event/php-online-meetup) (2 доклада на английском)
-
-- 30 мая (онлайн) - [3-й виртуальный PHP-митап](https://meetups-online.ru/php-may-2020), [трансляция пройдет на канале](https://meetups-online.ru/php-may-2020)
+18 июня (онлайн) - Дискуссия о роли PHP в современной разработке между подкастом "Цинковый прод" и Skyeng: [лайв пройдет здесь](https://www.youtube.com/watch?v=QrlWrFILjMk), [аудиоверсия выйдет здесь](https://soundcloud.com/znprod)
 
 [Прошедшие митапы](PASTMEETUPS.md)
 

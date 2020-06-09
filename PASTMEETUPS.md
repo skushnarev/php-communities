@@ -1,8 +1,15 @@
 # Прошедшие митапы
 
+## Июнь 2020
+
+- 6 июня (онлайн-платно) - PHP fwdays special, конференция
+
 ## Май 2020
 
 - 13 мая (онлайн) - [PHP Russia Online, 7 докладов иностранных спикеров с синхронным переводом](https://phprussia.ru/moscow/2020)
+- 19 мая (онлайн) - [PHP fwdays meetup](https://fwdays.com/en/event/php-online-meetup) (2 доклада на английском)
+- 30 мая (онлайн) - [3-й виртуальный PHP-митап](https://meetups-online.ru/php-may-2020), [трансляция пройдет на канале](https://meetups-online.ru/php-may-2020)
+- 30-31 мая (онлайн, платно) - PHP fwdays, конференция
 
 ## Апрель 2020
 

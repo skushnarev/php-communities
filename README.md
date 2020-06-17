@@ -98,6 +98,8 @@
 
 18 июня (онлайн) - Дискуссия о роли PHP в современной разработке между подкастом "Цинковый прод" и Skyeng: [лайв пройдет здесь](https://www.youtube.com/watch?v=QrlWrFILjMk), [аудиоверсия выйдет здесь](https://soundcloud.com/znprod)
 
+1 июля (онлайн) - Как готовить код-ревью: живая запись подкаста SDCast со спикерами и участниками ПК PHP Russia, [трансляция пройдет на этом канале](https://www.youtube.com/channel/UCQ5X_o8s14fbozhtxO5BgIA)
+
 [Прошедшие митапы](PASTMEETUPS.md)
 
 

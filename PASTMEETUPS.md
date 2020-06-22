@@ -2,6 +2,7 @@
 
 ## Июнь 2020
 
+- 18 июня (онлайн) - Дискуссия о роли PHP между подкастом "Цинковый прод" и Skyeng: [видео](https://www.youtube.com/watch?v=QrlWrFILjMk), [аудио](https://soundcloud.com/znprod)
 - 6 июня (онлайн-платно) - PHP fwdays special, конференция
 
 ## Май 2020

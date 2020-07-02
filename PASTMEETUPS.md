@@ -6,9 +6,9 @@
 
 ## Июнь 2020
 
-- 26 июня (онлайн) - лайв-интервью с Романом Пронским, автором PHP-дайджеста [видео](http://youtu.be/KvTQWv0phgE)
-- 18 июня (онлайн) - Дискуссия о роли PHP между подкастом "Цинковый прод" и Skyeng: [видео](https://www.youtube.com/watch?v=QrlWrFILjMk), [аудио](https://soundcloud.com/znprod)
 - 6 июня (онлайн-платно) - PHP fwdays special, конференция
+- 18 июня (онлайн) - Дискуссия о роли PHP между подкастом "Цинковый прод" и Skyeng: [видео](https://www.youtube.com/watch?v=QrlWrFILjMk), [аудио](https://soundcloud.com/znprod)
+- 26 июня (онлайн) - лайв-интервью с Романом Пронским, автором PHP-дайджеста [видео](http://youtu.be/KvTQWv0phgE)
 
 ## Май 2020
 

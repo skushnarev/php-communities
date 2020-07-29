@@ -4,7 +4,7 @@
 
 - 1 июля (онлайн) - Как готовить код-ревью: живая запись подкаста SDCast со спикерами и участниками ПК PHP Russia, [видео](https://www.youtube.com/watch?v=JP7lppzWaLg)
 - 16 июля (онлайн) - Открытое собеседование на позицию PHP-синьора от каналов PHPyh и PHP-дайджест, [видео](https://www.youtube.com/watch?v=FQNd9W3nb3A)
-
+- 24 июля (онлайн) - Живое интервью с Дмитрием Елисеевым, автором гайдов по Laravel и Yii, [видео](http://youtube.com/watch?v=3IG1WPsmxJo)
 
 ## Июнь 2020
 

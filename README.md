@@ -96,9 +96,8 @@
 ## Календарь PHP-митапов по России 
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- 24 июля (онлайн) - Живое интервью с Дмитрием Елисеевым, автором гайдов по Laravel и Yii, [видео](http://youtube.com/watch?v=3IG1WPsmxJo)
-
-- 28 июля (онлайн) - Как создаются хайлоады на PHP [стрим в инстаграме](https://www.instagram.com/p/CCDv2LnjvYO/)
+- 29 июля (онлайн) - Стрим про утечки памяти в PHP, [видео](https://www.youtube.com/watch?v=NNMp-97rk9c)
+- 30 июля (онлайн) - Живое интервью с Валентином Удальцовым, автором канала "Пых" [видео](https://www.youtube.com/watch?v=LOrb3m0FQdU)
 
 [Прошедшие митапы](PASTMEETUPS.md)
 

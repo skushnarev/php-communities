@@ -98,7 +98,7 @@
 
 - 29 июля (онлайн) - Стрим про утечки памяти в PHP, [видео](https://www.youtube.com/watch?v=NNMp-97rk9c)
 - 30 июля (онлайн) - Живое интервью с Валентином Удальцовым, автором канала "Пых" [видео](https://www.youtube.com/watch?v=LOrb3m0FQdU)
-
+- 6 августа, Йошкар-Ола - Встреча PHP-чата в баре, [регистрация](https://php-yola.timepad.ru/event/1390380/)
 [Прошедшие митапы](PASTMEETUPS.md)
 
 

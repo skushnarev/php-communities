@@ -96,9 +96,7 @@
 ## Календарь PHP-митапов по России 
 Если хотите добавить свой митап в календарь, смотрите [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- 6 августа, Йошкар-Ола - Встреча PHP-чата в баре, [регистрация](https://php-yola.timepad.ru/event/1390380/)
-
-- 15 августа (онлайн) - Сравним Go и PHP на примерах с Еленой Граховац (GolangConf), Александром Макаровым (PHP Russia) и не только, [видео](https://www.youtube.com/watch?v=0Z-EU2jxjkA)
+- 18 августа (онлайн) - Как начать использовать AWS Lambda в своих PHP-проектах, [бесплатно](https://fwdays.com/event/implementing-aws-lambda)
 
 [Прошедшие митапы](PASTMEETUPS.md)
 

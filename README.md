@@ -13,11 +13,11 @@ PHP-митапы в России, Беларуси, Украине
 
 ## Ближайшие онлайн и офлайн митапы на русском
 
+25 сентября в 12:00 Offline, Краснодар, [регистрация](https://meetup.zebrains.ru/php?fbclid=IwAR277dQ2QVeQDzGAF2l1MIta1ZKmhz-Fk2zztavw08lnosq7Sv07wxt1urY), запись планируется
+
 17 октября, Йошкар-Ола - [подробности](https://php-yola.timepad.ru/event/1443043/), видео появится [на канале](https://www.youtube.com/channel/UCy2_ZbIr2wEltHL1-wrfRjg) 
 
 23-24 октября, онлайн - [PHPfest](https://2020.phpfest.ru/), 16 докладов бесплатно, но без записи
-
-25 сентября в 12:00 Offline, Краснодар, [регистрация](https://meetup.zebrains.ru/php?fbclid=IwAR277dQ2QVeQDzGAF2l1MIta1ZKmhz-Fk2zztavw08lnosq7Sv07wxt1urY), запись планируется
 
 24 октября, Ульяновск - [подробности](https://phpcommunity.ru/meetup-ulyanovsk), видео появится [на канале](https://www.youtube.com/channel/UCQ5X_o8s14fbozhtxO5BgIA) 
 

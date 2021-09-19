@@ -17,6 +17,8 @@ PHP-митапы в России, Беларуси, Украине
 
 23-24 октября, онлайн - [PHPfest](https://2020.phpfest.ru/), 16 докладов бесплатно, но без записи
 
+25 сентября в 12:00 Offline, Краснодар, [регистрация](https://meetup.zebrains.ru/php?fbclid=IwAR277dQ2QVeQDzGAF2l1MIta1ZKmhz-Fk2zztavw08lnosq7Sv07wxt1urY), запись планируется
+
 24 октября, Ульяновск - [подробности](https://phpcommunity.ru/meetup-ulyanovsk), видео появится [на канале](https://www.youtube.com/channel/UCQ5X_o8s14fbozhtxO5BgIA) 
 
 31 октября, Самара - [подробности](https://phpcommunity.ru/meetup-samara), видео появится [на канале](https://www.youtube.com/channel/UCQ5X_o8s14fbozhtxO5BgIA) 
